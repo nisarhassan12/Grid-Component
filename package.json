@@ -1,0 +1,29 @@
+{
+  "name": "grid-component",
+  "version": "1.0.0",
+  "description": "A simple React Grid Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html",
+    "build": "parcel prod ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisarhassan12/Grid-Component.git"
+  },
+  "author": "nisarhassan12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisarhassan12/Grid-Component/issues"
+  },
+  "homepage": "https://github.com/nisarhassan12/Grid-Component#readme",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
