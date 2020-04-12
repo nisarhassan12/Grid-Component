@@ -21,7 +21,8 @@
   "dependencies": {
     "parcel": "^1.12.4",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.0"
   },
   "devDependencies": {
     "typescript": "^3.8.3"
