@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/nisarhassan12/Grid-Component#readme",
   "dependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.0"
